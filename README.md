@@ -1,3 +1,6 @@
-### Hi, I'm Vu Nguyen!
+<h1 align="center">Hi 👋, I'm Vu</h1>
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
 
-[![Vu's github stats](https://github-readme-stats.vercel.app/api?username=nvvu99)](https://github.com/anuraghazra/github-readme-stats&theme=dracula)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvvu99&layout=compact&hide=html" alt="nvvu99" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nvvu99&show_icons=true" alt="nvvu99" /></p>
